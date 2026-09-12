@@ -24,5 +24,15 @@
       "type": "text",
       "text": "Assalamualaikum Vai"
     }
+  },
+  {
+    "id": "m_mty5wk7awz2z",
+    "chatId": "u_mty3myljmn5r__u_mty4ogovdmb0",
+    "senderId": "u_mty3myljmn5r",
+    "receiverId": "u_mty4ogovdmb0",
+    "type": "text",
+    "text": "http://www.w3.org/2000/svg",
+    "createdAt": 1789204065094,
+    "deletedForEveryone": false
   }
 ]
