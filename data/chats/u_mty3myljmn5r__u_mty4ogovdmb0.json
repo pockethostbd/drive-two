@@ -33,6 +33,6 @@
     "type": "text",
     "text": "http://www.w3.org/2000/svg",
     "createdAt": 1789204065094,
-    "deletedForEveryone": false
+    "deletedForEveryone": true
   }
 ]
